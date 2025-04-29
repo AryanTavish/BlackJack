@@ -1,4 +1,3 @@
-# BlackJack
 # Blackjack Game
 
 A modern, interactive Blackjack game built with web technologies.
