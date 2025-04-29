@@ -34,12 +34,12 @@ To run the project locally:
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/blackjack.git
+   git clone https://github.com/yourusername/blackjack-game.git
    ```
 
 2. Navigate to the project directory
    ```
-   cd blackjack
+   cd blackjack-game
    ```
 
 3. Open `index.html` in your browser or use a local server
