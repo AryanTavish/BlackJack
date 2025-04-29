@@ -15,8 +15,8 @@ console.log(messageEl)
 
 //plaeyer
 let player={
-    name:"Nightshot357",
-    chips: 2000,
+    name:"Player1",
+    chips: 1000,
 }
 
 //loggging player Chips and name
